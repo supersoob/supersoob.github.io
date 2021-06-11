@@ -12,7 +12,6 @@ I wrote "about me", "career", and "interests" on this page as an example.
 * B.S in Computer Engineering, Pukyong National University, Busan, Korea. (2015/03-2020/02)
 * B.S in Physics, Pukyong National University, Busan, Korea. (2015/03-2020/02)
 
-<br/>
 # Experiences
 * OMNIA, UNIST (2020/01-)
   * M.S. student
@@ -22,7 +21,6 @@ I wrote "about me", "career", and "interests" on this page as an example.
   * Intern
 * Visual Communication Laboratory, PKNU  (2018/09-2019/12)
   * Intern
-<br/>
 
 # Research Interests
 Continual Learning, Federated Learning, Edge-cloud analytics, System for Machine Learning
