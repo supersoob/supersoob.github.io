@@ -20,9 +20,8 @@ Hi, thank you for visiting my page:)<br> I'm a M.S student, working with Prof. M
 
 <br/>
 # Research Interests
-Continual Learning, Online Learning, Memory Management, Federated Learning, System for Machine Learning
+Continual Learning,  Online Learning,  Memory Management,  Federated Learning,  System for Machine Learning
 
 <br/>
 # Publications
 * 이수비, 정치윤, “동적 시간 왜곡(DTW)을 이용한 오토인코더 기반 청각치환 방법의 사용자 학습 가능성 검증”, 한국멀티미디어학회 추계 학술대회, 2019
-</br>
