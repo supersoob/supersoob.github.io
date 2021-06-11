@@ -1,6 +1,6 @@
 # Site settings
 title: Soobee Lee
-baseurl: "/home"
+baseurl:
 url: "https://supersoob.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
