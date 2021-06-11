@@ -3,7 +3,7 @@ layout: about
 ---
 <br/>
 # About Me
-Hi, thank you for visiting my page:) I'm a M.S student, working with Prof. Myeong Jae Jeon in OMNIA lab. My research interest is continual learning, avoiding catastropic forgetting during training with new data and leveraging episodic memory efficiently under various scenarios. I'm also interested in resource-effcient deep learning inference & training. Please feel free to email me, if you have any question.
+Hi, thank you for visiting my page:)<br> I'm a M.S student, working with Prof. Myeongae Jeon in OMNIA lab.<br>My research interest is continual learning, avoiding catastropic forgetting during training with new data and leveraging episodic memory efficiently under various scenarios.<br>I'm also interested in resource-effcient deep learning inference & training.<br>Please feel free to email me, if you have any question.
 
 <br/>
 # Education
