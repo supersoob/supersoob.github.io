@@ -1,13 +1,13 @@
 # Site settings
 title: Soobee Lee
-baseurl: Welcome to supersoob.github.io
+baseurl:
 url: "https://supersoob.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
   name: Soobee Lee 
-  desc: 
+  desc: Welcome to supersoob.github.io
   email: supersoob@unist.ac.kr
   selfie: assets/mypic.jpg
 
