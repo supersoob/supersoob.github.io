@@ -26,5 +26,5 @@ Continual Learning,  Online Learning,  Memory Management,  Federated Learning,  
 
 <br/>
 # Publications
-* <i>Carousel Memory: Rethinking the Design of Episodic Memory for Continual Learning</i>, Preprint, 2019
+* <i>Carousel Memory: Rethinking the Design of Episodic Memory for Continual Learning</i>, Preprint, 2021
 * “동적 시간 왜곡(DTW)을 이용한 오토인코더 기반 청각치환 방법의 사용자 학습 가능성 검증”, 한국멀티미디어학회 추계 학술대회, 2019
