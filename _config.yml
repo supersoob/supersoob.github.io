@@ -7,13 +7,11 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Soobee Lee 
-  desc: supersoob@unist.ac.kr
-  email: supersoob@unist.ac.kr
   selfie: assets/mypic.jpg
 
 # social
 social:
-  email: true
+  email: supersoob@gmail.com, supersoob@unist.ac.kr
   behance:
   bitbucket:
   dribbble:
