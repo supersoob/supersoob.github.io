@@ -14,14 +14,14 @@ layout: about
 
 <br/>
 ### Education
-    + M.S in Computer Science and Engineering, UNIST, Ulsan, Korea.  (2020-2022)
-    + B.S in Computer Engineering, Pukyong National University, Busan, Korea.  (2015-2020)
-    + B.S in Physics, Pukyong National University, Busan, Korea.  (2015-2020)
-
+     - M.S in Computer Science and Engineering, UNIST, Ulsan, Korea.  (2020-2022)
+     - B.S in Computer Engineering, Pukyong National University, Busan, Korea.  (2015-2020)
+     - B.S in Physics, Pukyong National University, Busan, Korea.  (2015-2020)
+ 
 <br/>
 ### Experiences
-    + AI research Engineer, Intel Korea  (2022.03-)
-    + M.S. student in OMNIA, UNIST  (2020-2022)
-    + Google Women Techmakers Scholar, Google   (2019)
-    + Intern in Artificial Intelligence Research Laboratory, ETRI  (2019)
-    + Intern in Visual Communication Laboratory, PKNU   (2018-2019)
+     * AI research Engineer, Intel Korea  (2022.03-)
+     * M.S. student in OMNIA, UNIST  (2020-2022)
+     * Google Women Techmakers Scholar, Google   (2019)
+     * Intern in Artificial Intelligence Research Laboratory, ETRI  (2019)
+     * Intern in Visual Communication Laboratory, PKNU   (2018-2019)
